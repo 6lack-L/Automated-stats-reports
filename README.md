@@ -1,4 +1,4 @@
-# BA
+# Business Analysis Automated stats report
 
 A small analysis toolkit for exploring a loan dataset (`lc_large.csv`). The repo contains scripts that generate summary tables, figures, and an ANOVA/t-test Excel workbook suitable for quick reporting and review.
 
