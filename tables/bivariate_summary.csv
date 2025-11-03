@@ -1,0 +1,6 @@
+feature,feature_type,test,r,r2,t,F,p,effect_size_value,n_total,n_groups,group_means_counts
+loan_amnt,numeric,R Squared,-0.034,0.001,,,<0.001,-0.55,167608,,
+term,categorical,t-test,,,25.934,,<0.001,0.146,167608,2.0," 36 months:4.872(n=120813),  60 months:4.649(n=46795)"
+int_rate,numeric,R Squared,-0.178,0.032,,,<0.001,0.015,167608,,
+home_ownership,categorical,ANOVA,,,,192.859,<0.001,0.003,167608,4.0,"ANY:4.709(n=127), MORTGAGE:4.897(n=81332), OWN:4.799(n=20333), RENT:4.705(n=65816)"
+dti,numeric,R Squared,-0.03,0.001,,,<0.001,0.042,167402,,
